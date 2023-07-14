@@ -29,5 +29,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://Dareth24.github.io/First-React-Project"
+  "homepage": "https://Dareth24.github.io/First-React-Project",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
 }
