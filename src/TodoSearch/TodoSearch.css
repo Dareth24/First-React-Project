@@ -1,0 +1,18 @@
+input {
+    font-size: 22px;
+    color: #969696;
+    background-color: #ececec;
+    border-radius: 25px;
+    border: solid 2px #00080f;
+    text-align: center;
+    padding: 6px 0;
+    outline: none;
+}
+
+::placeholder {
+    color: #969696;
+}
+
+:focus::placeholder {
+    color: transparent;
+}

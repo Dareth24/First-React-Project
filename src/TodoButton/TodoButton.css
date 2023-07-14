@@ -1,0 +1,17 @@
+.New-Todo {
+    border: solid 2px #00080f;
+    border-radius: 22px;
+    font-size: 22px;
+    color: #24c5b0;
+    font-weight: bold;
+    padding: 6px 12px;
+    background-color: #0c2d35;
+    cursor: pointer;
+    position: absolute;
+    top: 85%;
+    right: 6%;
+}
+
+.New-Todo:hover {
+    scale: 1.01;
+}

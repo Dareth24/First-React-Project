@@ -1,0 +1,10 @@
+ul {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    border-radius: 20px;
+    width: 70%;
+    padding: 0;
+    margin: 40px 0;
+}
+
