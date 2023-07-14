@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/First-React-Project/static/css/main.5a35ae82.css",
+    "main.js": "/First-React-Project/static/js/main.23e05e51.js",
+    "index.html": "/First-React-Project/index.html",
+    "static/media/delete.svg": "/First-React-Project/static/media/delete.2cfbc54deebd87d7ea9cf648765e70a5.svg",
+    "static/media/check.svg": "/First-React-Project/static/media/check.ec0a68811eaff4a8aabfbaf34839ccbf.svg",
+    "main.5a35ae82.css.map": "/First-React-Project/static/css/main.5a35ae82.css.map",
+    "main.23e05e51.js.map": "/First-React-Project/static/js/main.23e05e51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a35ae82.css",
+    "static/js/main.23e05e51.js"
+  ]
+}
